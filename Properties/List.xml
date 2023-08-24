@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<FormulaManager>
+  <ReportObj CurReportID="EPRWSREPORTSDKZVI8D" Name="WSReport" Status="N" WorksheetPassword="" WorkbookPassword="" />
+  <ReportFormulaList />
+  <ReportChartObjCollection />
+  <FormulaSingleCollections />
+  <FormulaMRefCollection />
+  <FormulaComposeCollection />
+  <PictureObjCollection />
+  <CellFormularItemList />
+  <SheetObjList>
+    <SheetObj Name="Sheet1" HiddenFromula="" HiddenWhenEmpty="False" RegionHeadPos="FirstPage" RegionTailPos="EndPage" RegionGroupHeadPos="FirstPage" RegionGroupTailPos="EndPage" PaperHeightDeviation="0" ReportTailPageBreak="False">
+      <AutoRowList />
+      <CellUrlList />
+      <NumUpperList />
+      <EditCellList />
+      <CalculateCellList />
+      <MergeCellList />
+      <ConditionalFormatList />
+      <PageList>
+        <PageObj Name="Sheet1_page0" StartRow="0" EndRow="0">
+          <RegionObjList />
+        </PageObj>
+      </PageList>
+    </SheetObj>
+  </SheetObjList>
+</FormulaManager>
